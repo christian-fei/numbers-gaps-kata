@@ -1,3 +1,17 @@
+# Setup
+
+- `mix deps.get`
+
+# Tests
+
+```
+mix test
+# or
+mix test.watch
+```
+
+-----
+
 # Numbers Gaps Kata
 
 Write a program that, given a set of numbers, returns the gaps between them.
